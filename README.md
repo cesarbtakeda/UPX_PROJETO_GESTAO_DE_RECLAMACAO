@@ -1,6 +1,7 @@
 # ⚙️ Upx Projeto Gestao de Reclamação
 
-
+## Developed by students of the 1st FACENS. UPX Project - Prof. Helio - Cesar Augusto B - Enzo Parra - Lucas Moraes - Pedro Augusto - Bruno Lopes - Gustavo Yuji
+##
 <p align='center'>
 <img src="" width=200 alt=""/></p>
 
@@ -21,7 +22,8 @@ git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/
 3. 
 
 ```
-sudo python3 interface.py 
+sudo python3 interface.py
+
 ```
 
 ## MAIN FEATURES
