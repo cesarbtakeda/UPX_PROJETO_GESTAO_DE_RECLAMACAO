@@ -26,8 +26,13 @@ sudo python3 interface.py
 
 ```
 
-## MAIN FEATURES
+## PoC - Photos
 
+1. Outupt
+- ![image](https://github.com/user-attachments/assets/ea189624-d8a0-4e8d-bb40-4ccc586f14ae)
+
+2. Software
+- ![image](https://github.com/user-attachments/assets/c87de775-8b29-4deb-9925-9c49adc70ec3)
 
 
 ## 🔐 LEGAL NOTICE
