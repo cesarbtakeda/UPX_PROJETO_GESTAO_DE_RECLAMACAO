@@ -1,6 +1,6 @@
 # ⚙️ Upx Complaint Management Project - Alpha 0.1
 
-## Developed by students of the 1st FACENS. UPX Project - Prof. Helio - Cesar Augusto B - Enzo Parra - Lucas Moraes - Pedro Augusto - Bruno Lopes - Gustavo Yuji
+## Developed by students of the 1st FACENS. UPX Project - Prof. Helio - Studants: Cesar Augusto B - Enzo Parra - Lucas Moraes - Pedro Augusto - Bruno Lopes - Gustavo Yuji
 ## Works only on LINUX Debian Version 12
 <p align='center'>
 <img src="" width=200 alt=""/></p>
