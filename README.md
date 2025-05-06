@@ -9,22 +9,14 @@
 1.
 ```
 git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && pip3 isntall -r rqueriments.txt --break-system-packages
-
 ```
 
 2.
 
 ```
- cd  UPX_PROJETO_GESTAO_DE_RECLAMACAO/
-
+ cd  UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && sudo python3 interface.py
 ```
 
-3. 
-
-```
-sudo python3 interface.py
-
-```
 # 
 
 ## PoC - Photos
