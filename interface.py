@@ -109,3 +109,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = InterfaceReclamacoes(root)
     root.mainloop()
+
+## Desenvolvido por Cesar Augusto - Ideia De Cesar e Enzo Parra
