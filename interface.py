@@ -2,8 +2,8 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import webbrowser
 from pathlib import Path
-import pegar_urls  # Script do seu amigo
-import reclamacoes  # Nosso script de reclamações
+import pegar_urls   
+import reclamacoes  
 
 class InterfaceReclamacoes:
     def __init__(self, root):
