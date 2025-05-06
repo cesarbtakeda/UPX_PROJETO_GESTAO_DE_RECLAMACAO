@@ -19,3 +19,6 @@ if [ -f "dist/$OUTPUT_NAME" ]; then
 else
     echo "❌ Falha na compilação! Verifique os erros acima."
 fi
+
+
+## Desenvolvido por Cesar Augsto - Ideia de Cesar e enzo parra
