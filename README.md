@@ -1,11 +1,11 @@
-# ⚙️ Upx Complaint Management Project - Alpha 0.3
+# ⚙️ Projeto de Gestão de Reclamações Upx - Alfa 0.3
 
-## Developed by students of the 1st FACENS. UPX Project - Prof. Helio - Studants: Cesar Augusto B - Enzo Parra - Lucas Moraes - Pedro Augusto - Bruno Lopes - Gustavo Yuji
-## Works only on LINUX Debian Version 12
+## Desenvolvido pelos alunos do 1º semestre da FACENS. Projeto da UPX - Prof. Helio - Studants: Cesar Augusto B - Enzo Parra - Lucas Moraes - Pedro Augusto - Bruno Lopes - Gustavo Yuji
+## Funciona apenas em distros baseadas no Debian
 <p align='center'>
 <img src="" width=200 alt=""/></p>
 
-##  INSTALLATION
+##  INSTALAÇÃO
 1.
 ```
 git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && pip3 isntall -r rqueriments.txt --break-system-packages
@@ -19,7 +19,7 @@ git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && p
 
 # 
 
-## PoC - Photos
+## PoC (Prova de conceito) - Fotos
 
 ### 1. Outupt:
 
@@ -30,7 +30,7 @@ git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && p
 #### ![image](https://github.com/user-attachments/assets/bba3aac9-7f8c-4ddb-a55f-67756926b914)
 
 
-### 3. Graphics:
+### 3. Graficos:
 
 #### ![image](https://github.com/user-attachments/assets/d7017104-1566-4d0d-be7d-8ec4f23c4d0e)
 
@@ -39,18 +39,18 @@ git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && p
 
 
 
-## 🔐 LEGAL NOTICE
-USE PERMITTED ONLY IN:
-- Companies authorized to use if you buy
-- Academic Research
-- Testing on Authorized VMs!
+## 🔐 AVISO LEGAL
+USO PERMITIDO SOMENTE EM:
+- Empresas autorizadas a usar se você comprar
+- Pesquisa Acadêmica
+- Teste em VMs Autorizadas!
   
-## ⚠️ PROHIBITED:
-- Unauthorized sales by third parties
-- Data collection is illegal
+## ⚠️ PROIBIDO:
+- Vendas não autorizadas por terceiros
+- A coleta de dados é ilegal
 
 
-## 📜 License(LICENSE)
+## 📜 Licença (LICENSE)
 [![MIT License](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/blob/main/LICENSE)
 
 
