@@ -6,12 +6,12 @@
 <img src="" width=200 alt=""/></p>
 
 ##  INSTALAÇÃO
-1.
+### 1.
 ```
 git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && pip3 isntall -r rqueriments.txt --break-system-packages
 ```
 
-2.
+### 2.
 
 ```
  cd  UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && sudo python3 interface.py
@@ -25,14 +25,19 @@ git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && p
 
 #### ![image](https://github.com/user-attachments/assets/ea189624-d8a0-4e8d-bb40-4ccc586f14ae)
 
+#
+
 ### 2. Software:
 
 #### ![image](https://github.com/user-attachments/assets/bba3aac9-7f8c-4ddb-a55f-67756926b914)
 
+#
 
 ### 3. Graficos:
 
 #### ![image](https://github.com/user-attachments/assets/d7017104-1566-4d0d-be7d-8ec4f23c4d0e)
+
+#
 
 #### ![image](https://github.com/user-attachments/assets/ad01031a-94a6-4f15-83c7-a6b2a0e87a9e)
 
@@ -40,7 +45,7 @@ git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && p
 
 
 ## 🔐 AVISO LEGAL
-USO PERMITIDO SOMENTE EM:
+### USO PERMITIDO SOMENTE EM:
 - Empresas autorizadas a usar se você comprar
 - Pesquisa Acadêmica
 - Teste em VMs Autorizadas!
