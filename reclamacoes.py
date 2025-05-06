@@ -103,7 +103,7 @@ def main():
     html_dir.mkdir(exist_ok=True)
     reclam_dir.mkdir(exist_ok=True)
     
-    output_file = reclam_dir / "reclamacoes.txt"
+    output_file = reclam_dir / "dados.txt"
     
     print(f"\n► Processando {len(urls)} URLs...\n")
     
