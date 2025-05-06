@@ -48,7 +48,7 @@ class InterfaceReclamacoes:
             btn = ttk.Button(main_frame, text=text, command=command, width=25)
             btn.pack(pady=5)
 
-        tk.Label(main_frame, text="Feito por Cesar Augusto B - Enzo Parra - Gustavo Yuji - Pedro Augusto - Bruno Lopes - Lucas ", font=("Arial", 8), bg="#f0f0f0", fg="#666").pack(pady=(10, 0))
+        tk.Label(main_frame, text="Feito por Cesar Augusto B - Enzo Parra - Gustavo Yuji - Pedro Augusto - Bruno Lopes - Lucas Moraes ", font=("Arial", 8), bg="#f0f0f0", fg="#666").pack(pady=(10, 0))
 
     def pegar_urls(self):
         try:
