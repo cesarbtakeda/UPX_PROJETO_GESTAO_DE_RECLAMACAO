@@ -21,7 +21,9 @@ git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && p
 
 ## PoC (Prova de conceito) - Fotos
 
-### 1. Outupt:
+#
+
+### 1. Outupt da Coleta de dados:
 
 #### ![image](https://github.com/user-attachments/assets/ea189624-d8a0-4e8d-bb40-4ccc586f14ae)
 
