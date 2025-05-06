@@ -5,8 +5,11 @@ OUTPUT_NAME="GerenciadorReclamacoes.exe"
 
 # Comando de compilação corrigido
 pyinstaller --onefile --noconsole \
+    --add-data "interface.py:." \
     --add-data "reclamacoes.py:." \
     --add-data "pegar_urls.py:." \
+    --add-data "graficos.py:." \
+  
     --name "$OUTPUT_NAME" \
     ./interface.py  # Note o ./ antes do nome do arquivo
 
