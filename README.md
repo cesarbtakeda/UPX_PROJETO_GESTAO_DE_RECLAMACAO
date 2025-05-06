@@ -8,7 +8,7 @@
 ##  INSTALLATION
 1.
 ```
-git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/
+git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && pip3 isntall -r rqueriments.txt --break-system-packages
 
 ```
 
@@ -33,7 +33,16 @@ sudo python3 interface.py
 - ![image](https://github.com/user-attachments/assets/ea189624-d8a0-4e8d-bb40-4ccc586f14ae)
 
 2. Software
-- ![image](https://github.com/user-attachments/assets/c87de775-8b29-4deb-9925-9c49adc70ec3)
+- ![image](https://github.com/user-attachments/assets/bba3aac9-7f8c-4ddb-a55f-67756926b914)
+
+
+3. Graficos
+
+-![image](https://github.com/user-attachments/assets/d7017104-1566-4d0d-be7d-8ec4f23c4d0e)
+
+-![image](https://github.com/user-attachments/assets/ad01031a-94a6-4f15-83c7-a6b2a0e87a9e)
+
+
 
 
 ## 🔐 LEGAL NOTICE
