@@ -21,14 +21,16 @@ git clone https://github.com/cesarbtakeda/UPX_PROJETO_GESTAO_DE_RECLAMACAO/ && p
 
 ## PoC - Photos
 
-### 1. Outupt
+### 1. Outupt:
+
 #### ![image](https://github.com/user-attachments/assets/ea189624-d8a0-4e8d-bb40-4ccc586f14ae)
 
-### 2. Software
+### 2. Software:
+
 #### ![image](https://github.com/user-attachments/assets/bba3aac9-7f8c-4ddb-a55f-67756926b914)
 
 
-### 3. Graficos
+### 3. Graphics:
 
 #### ![image](https://github.com/user-attachments/assets/d7017104-1566-4d0d-be7d-8ec4f23c4d0e)
 
