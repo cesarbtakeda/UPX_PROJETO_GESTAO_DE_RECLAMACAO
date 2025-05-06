@@ -65,3 +65,5 @@ def obter_urls():
 if __name__ == "__main__":
     urls = obter_urls()
     print(f"Teste: {urls}")
+
+## Desenvolvido por Enzo e Cesar Augusto- Ideia De Enzo Parra e Cesar
