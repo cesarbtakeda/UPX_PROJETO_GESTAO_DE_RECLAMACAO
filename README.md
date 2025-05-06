@@ -1,4 +1,4 @@
-# ⚙️ Projeto de Gestão de Reclamações Upx - Alfa 0.3
+# ⚙️ Projeto de Gestão de Reclamações Upx - Verssão Alfa 0.3
 
 ## Desenvolvido pelos alunos do 1º semestre da FACENS. Projeto da UPX - Prof. Helio - Studants: Cesar Augusto B - Enzo Parra - Lucas Moraes - Pedro Augusto - Bruno Lopes - Gustavo Yuji
 ## Funciona apenas em distros baseadas no Debian
