@@ -121,3 +121,5 @@ def gerar_graficos():
 
 if __name__ == "__main__":
     gerar_graficos()
+
+## Desenvolvido por Enzo parra e Cesar Augusto - Ideia De Enzo Parra e Cesar Augusto
