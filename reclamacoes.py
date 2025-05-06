@@ -138,4 +138,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-## Desenvolvido por Cesar Augusto - Ideia De Enzo Parra
+## Desenvolvido por Cesar Augusto - Ideia De Cesar e Enzo Parra
